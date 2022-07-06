@@ -1,0 +1,7 @@
+a.txt
+mr-tmp
+mr-out-*
+mrcoordinator
+mrsequential
+mrworker
+testbuild
