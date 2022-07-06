@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Implement a basic distributed Map-reduce framework with handling Worker failure. Used Go programming language.
+Implemented a simple distributed Map-reduce framework with handling Worker failure. Used Go programming language.
 
 ## What is Map Reduce?
 
@@ -166,6 +166,12 @@ We run a total of 9 tests to ensure the correctness of our implementation:
 -   Job Count test
 -   Early exit test (tests whether any worker or coordinator exits before the task has been completed, and all output files have been finialized)
 -   Crash test: The mapper and reducer randomly crashes. Checks if the output is still correct or not.
+
+## Collaborators
+
+-   Mihir Bani
+-   Pulak Malhotra
+-   Snehal Kumar
 
 ## References
 
